@@ -14,11 +14,18 @@ by keeping this thing mind I'm developing a Bot ie. Messenger Bot to Perform you
 **Q:** are #ChatBots the Future of Web ? <br />
 **A:** Yes Companies like Facebook/Twitter/Microsoft/Slack/Kik/Telegram/Viber are investing Huge in ChatBots
 
+**Q:** Features ? <br />
+**A:** Account Linking <br />
+       Create Droplet <br />
+       Delete Droplet <br />
+       Power Off <br />
+       Power On <br />
+       
 **Q:** Future Scoper ? <br />
-**A:** Continuously Adding more and more feature inside the Bot 
-       Implementing deep understanding by NLP
-       **Suggestion based on User Actions**
-       Deploying on MultiPlaform(Slackbot,Twitter,Line,Wechat,Viber)
+**A:** Continuously Adding more and more feature inside the Bot <br/>
+       Implementing deep understanding by NLP    <br />
+       **Suggestion based on User Actions**      <br />
+       Deploying on MultiPlaform(Slackbot,Twitter,Line,Wechat,Viber) <br />
 
 
 
