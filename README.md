@@ -1,4 +1,4 @@
-**Project:** Digital Ocean Bot For Messenger Bot
+#**Project:** Digital Ocean Bot For Messenger Bot
 
 **Description:** As we all know that we are moving towards automation everywhere, we don't like to wait for things, and we want that things
 should be done automatically or in just few taps
@@ -14,12 +14,13 @@ by keeping this thing mind I'm developing a Bot ie. Messenger Bot to Perform you
 **Q:** are #ChatBots the Future of Web ? <br />
 **A:** Yes Companies like Facebook/Twitter/Microsoft/Slack/Kik/Telegram/Viber are investing Huge in ChatBots
 
+
 **Q:** Features ? <br />
 **A:** Account Linking <br />
-       Create Droplet <br />
-       Delete Droplet <br />
-       Power Off <br />
-       Power On <br />
+        Create Droplet <br />
+        Delete Droplet <br />
+        Power Off <br />
+        Power On <br />
        
 **Q:** Future Scoper ? <br />
 **A:** Continuously Adding more and more feature inside the Bot <br/>
